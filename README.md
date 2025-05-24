@@ -33,5 +33,5 @@ A PHP + MySQL web application built with Laravel that provides:
 
 # Running the Application (on ```http://localhost:8000```);
 ```bash
-  php artisan serve
+    php artisan serve
 ```
